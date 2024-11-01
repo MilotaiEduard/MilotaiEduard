@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduard Milotai
 ======================================================================================================================================
 
-Junior Fullstack Developer
+Junior Frontend Developer
 --------------------------
 
 I am a passionate web developer with a focus on building engaging and high-performance web applications. Continuously honing my skills, I’m always eager to explore new technologies, solve complex problems, and embrace challenges that drive my growth as a developer.
